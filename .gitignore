@@ -1,0 +1,7 @@
+
+ignore_me.txt 
+app/ignored/ 
+*.py[cdo] 
+pyc/pyd/pyo 
+app/**/*.log 
+!app/main.log
