@@ -1,1 +1,1 @@
-There are always more questions than answers.
+Always more questions then answers there are.
